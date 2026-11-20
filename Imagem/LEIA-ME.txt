@@ -1,0 +1,23 @@
+FOTOS DO SITE - WILSON CALÇADOS
+Salve as fotos nesta pasta com EXATAMENTE estes nomes (formato .jpg).
+Enquanto a foto não existir, o site mostra um fundo cinza no lugar.
+
+categoria-femininos.jpg   Sandálias e saltos (vertical)
+categoria-masculinos.jpg  Tênis e sapatos masculinos (horizontal)
+categoria-all-star.jpg    Tênis All Star (quadrada)
+categoria-esportivos.jpg  Tênis esportivos / artigos esportivos (quadrada)
+categoria-bolsas.jpg      Bolsas (quadrada)
+categoria-perfumes.jpg    Perfumes (quadrada)
+novidade-1.jpg a novidade-6.jpg   Produtos novos (verticais, 4x5)
+fachada-loja.jpg          Fachada da loja (JÁ ADICIONADA)
+
+Dica: deixe cada foto com no máximo 1600 px de largura e menos de 300 KB
+(pode usar o site squoosh.app) para o site carregar rápido.
+
+logo-wilson.svg é a logo oficial, vetorizada a partir da imagem enviada pelo cliente.
+
+CARROSSÉIS DAS CATEGORIAS
+As fotos de cada categoria ficam em Imagem/categorias (ex.: femininos-01.jpg, femininos-02.jpg...).
+Para trocar ou adicionar fotos, salve com o mesmo padrão de nome e adicione uma linha <img> no index.html,
+dentro do cartão da categoria.
+O topo do site usa as fotos chegou-*.jpg passando sozinhas.
